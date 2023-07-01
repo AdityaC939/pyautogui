@@ -1,3 +1,5 @@
+# automation using pyautogui
+
 import pyautogui as py
 import time
 
